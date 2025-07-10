@@ -8,8 +8,7 @@
 
 ### 👋 About Me
 
-Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelancing initiative dedicated to delivering high-quality software and digital solutions. I specialize in building **full-stack applications**, **mobile apps**, and offer **mathematics tutoring services** for real-world use cases.
-
+Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelancing initiative dedicated to delivering high-quality software and digital solutions. I specialize in building **full-stack applications**, **mobile apps**, and offer **mathematics and programming tutoring services** from high school to university level.
 🔭 Currently working on:
 - Scalable web APIs with **Node.js & Express**
 - Cross-platform apps using **React Native**
