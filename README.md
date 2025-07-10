@@ -37,10 +37,6 @@ Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelan
 
 ### 📂 Featured Projects
 
-⭐ **[gethooked.netlify.app](https://gethooked.netlify.app)** — A real-time multiplayer snake game with AI agents  
-🔗 Repo: [gethookedapi](https://github.com/S-ciz/urasa_api)  
-🧠 Tech: Node.js, Socket.IO, Neuroevolution
-
 ⭐ **[azaniangames.com](https://azaniangames.com)** — Web platform for games and entertainment  
 📈 Optimized for SEO and fast page loads
 
@@ -52,7 +48,6 @@ Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelan
 ### 📬 Let's Connect
 
 - 🌐 [Website (coming soon)](https://standardsolution.infinityfreeapp.com/)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 Email: standardsolution704@gmail.com
 
 ---
