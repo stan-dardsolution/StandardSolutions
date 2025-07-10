@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Standard Solutions</h1>
 <p align="center">
-  🔧 Building web, mobile, and AI-powered solutions<br/>
+  🔧 Building web, mobile, and desktop solutions<br/>
   💼 Freelancing with passion | 🚀 Tech meets business
 </p>
 
@@ -8,13 +8,13 @@
 
 ### 👋 About Me
 
-Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelancing initiative dedicated to delivering high-quality software and digital solutions. I specialize in building **full-stack applications**, **mobile apps**, and **machine learning models** for real-world use cases.
+Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelancing initiative dedicated to delivering high-quality software and digital solutions. I specialize in building **full-stack applications**, **mobile apps**, and offer **mathematics tutoring services** for real-world use cases.
 
 🔭 Currently working on:
 - Scalable web APIs with **Node.js & Express**
 - Cross-platform apps using **React Native**
-- AI/ML applications using **Python & TensorFlow**
-- Game bots and agents using **Deep Q-Learning and Neuroevolution**
+- Web Applications using **MERN** and **XAMPP**
+- intelligent agents using **Deep Q-Learning and Neuroevolution**
 
 📍 Based in South Africa | 🌍 Working globally
 
@@ -30,7 +30,7 @@ Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelan
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
@@ -51,24 +51,13 @@ Hi! I'm **Mushinganya Cizungu**, founder of **Standard Solutions** — a freelan
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website (coming soon)](https://standardsolutions.dev)
+- 🌐 [Website (coming soon)](https://standardsolution.infinityfreeapp.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: yourname@standardsolutions.dev
+- 📧 Email: standardsolution704@gmail.com
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StandardSolutions&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StandardSolutions&layout=compact&theme=github_dark" alt="Top languages" />
-</p>
-
----
-
-### 💡 Fun Fact
-> I use **AI to teach AI how to play games**.  
+### 💡 Fun Facts
+> I use design patterns for scalable and reusable code 
 > Also a huge fan of clean code and creative user interfaces.
 
